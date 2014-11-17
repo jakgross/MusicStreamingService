@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="lib/" kind="src" path="server"/>
+	<classpathentry kind="src" path="client"/>
+	<classpathentry kind="src" path="clientTest"/>
+	<classpathentry kind="src" path="serverTest"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="lib" path="server/lib/derby.jar"/>
+	<classpathentry kind="lib" path="server/lib/mp3agic.jar"/>
+	<classpathentry kind="lib" path="server/lib/jl1.0.1.jar" sourcepath="server/lib/jl1.0.1.jar"/>
+	<classpathentry kind="lib" path="server/lib/tritonus_share.jar" sourcepath="server/lib/tritonus_share.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="lib" path="server/lib/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="server/lib/mp3spi1.9.5.jar"/>
+	<classpathentry kind="lib" path="server/lib/rmiio-2.0.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

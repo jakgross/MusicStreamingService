@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/soft/teaching/!svn/ver/9855/swpss11/gruppeF/workspace/MSS/client/clientlogic/player
+END
+BufferedAudioInputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/soft/teaching/!svn/ver/9855/swpss11/gruppeF/workspace/MSS/client/clientlogic/player/BufferedAudioInputStream.java
+END
+AudioObserver.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/soft/teaching/!svn/ver/9855/swpss11/gruppeF/workspace/MSS/client/clientlogic/player/AudioObserver.java
+END
+NoStreamSuppliedException.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/soft/teaching/!svn/ver/9855/swpss11/gruppeF/workspace/MSS/client/clientlogic/player/NoStreamSuppliedException.java
+END
+AudioPlayer.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/soft/teaching/!svn/ver/9855/swpss11/gruppeF/workspace/MSS/client/clientlogic/player/AudioPlayer.java
+END
